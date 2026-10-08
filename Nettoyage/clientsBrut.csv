@@ -1,0 +1,9 @@
+id,nom,age,ville,salaire,achat
+1,Alice,25,Paris,3000,150
+2,Marc,,Lyon,3500,300
+3,Sarah,32,paris,3200,200
+4,Paul,450,Marseille,5000,450
+5,Julie,28,Lyon,,100
+6,Alice,25,Paris,3000,150
+7,Thomas,35,lyon,4000,250
+8,Lea,29,Paris,inconnu,180
